@@ -20,6 +20,14 @@ create elementByClass and add to <main:content>
   </div>
 
 </div>
+
+CAN I USE AN ARRAY TO BUILD BUTTONS STYLES????
+
+let button ()
+  color: 
+  background-color:
+  
+
 */
 
 // MODAL TEMPLATE CODE 
