@@ -10,13 +10,13 @@ create elementByClass and add to <main:content>
 
 // MODAL TEMPLATE CODE 
 // Get the modal
-let modal = document.getElementById("myModal");
+var modal = document.getElementById("myModal");
 
 // Get the button that opens the modal
-let btn = document.getElementById("myBtn");
+var btn = document.getElementById("myBtn");
 
 // Get the <span> element that closes the modal
-let span = document.getElementsByClassName("close")[0];
+var span = document.getElementsByClassName("close")[0];
 
 // When the user clicks the button, open the modal 
 btn.onclick = function() {
