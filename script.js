@@ -4,3 +4,6 @@ create elementByClass and add to <main:content>
     <img>
     <p>
     <button:copy>
+
+
+  function to add articles to navbar, maybe alphabetize?
